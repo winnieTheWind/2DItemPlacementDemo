@@ -1,9 +1,9 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using UnityEngine.InputSystem;
 using System;
+
 public class InstantiateObjects : MonoBehaviour
 {
     public static List<HandleConfirm.ItemsData> purchaseItemData;
